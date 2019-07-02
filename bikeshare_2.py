@@ -1,3 +1,5 @@
+# Project for Udacity bikeshare dataset
+# Import the libraries below
 import time
 import pandas as pd
 import numpy as np
@@ -207,6 +209,6 @@ def main():
         if restart.lower() != 'y':
             break
 # NOTE:
-
+# 
 if __name__ == "__main__":
 	main()
