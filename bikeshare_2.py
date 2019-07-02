@@ -28,7 +28,7 @@ def get_filters():
 # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     flag = 'True'
     while flag == 'True':
-        print("Please enter a city from the below choices")
+        print("Please enter a city from the below 3 choices")
         try:
             city = input("(Chicago, Washington, NewYork) :  ").lower()
             if city in CITY_DATA:
@@ -209,6 +209,6 @@ def main():
         if restart.lower() != 'y':
             break
 # NOTE:
-# 
+#
 if __name__ == "__main__":
 	main()
