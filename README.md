@@ -5,10 +5,12 @@
 Bikeshare Details
 
 ### Description
-Provides the user option to run statistics based on one of the US cities data
+Provides the user option to run statistics based on one of the US cities data.
+The users can check the basic statistics involving the bikeshare data of the 
+city of their choice.
 
 ### Files used
-bikeshare_2.py
+bikeshare_2.py    
 
 ### Credits
 Udacity
