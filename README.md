@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##Date created
 01-Jul-2019
 
@@ -15,4 +16,21 @@ Basic operations using numpy are done in the project.
 bikeshare_2.py
 
 ##Credits
+=======
+### Date created
+01-Jul-2019
+
+### Project Title
+Bikeshare Details
+
+### Description
+Provides the user option to run statistics based on one of the US cities data.
+The users can check the basic statistics involving the bikeshare data of the 
+city of their choice.
+
+### Files used
+bikeshare_2.py    
+
+### Credits
+>>>>>>> documentation
 Udacity
