@@ -2,10 +2,10 @@
 01-Jul-2019
 
 ### Project Title
-Bikeshare
+Bikeshare Details
 
 ### Description
-Statistics on Bikeshare in US Cities
+Provides the user option to run statistics based on one of the US cities data
 
 ### Files used
 bikeshare_2.py
