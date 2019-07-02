@@ -1,15 +1,17 @@
-### Date created
-Include the date you created this project and README file.
+##Date created
+01-Jul-2019
 
-### Project Title
-Replace the Project Title
+##Project Title
+Bikeshare Details
 
-### Description
-Describe what your project is about and what it does
+##Description
+Provides the user option to run statistics based on one of the US cities data.
+The users can check the basic statistics involving the bikeshare data of the
+city of their choice.
+The main functions in python like max(), count() etc. are used. 
 
-### Files used
-Include the files used
+##Files used
+bikeshare_2.py
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+##Credits
+Udacity
